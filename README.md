@@ -1,4 +1,4 @@
-# 0400AH [[ [Re]generated on 2016-04-08 (17:51:53) ]]
+# 0400AH [[ [Re]generated on 2016-04-08 (18:20:49) ]]
 
 * `0301Bardiji.TabaqatAsma (TAGS: ...,PPE)`
 * `0303Nasai.DucafaWaMatrukin (TAGS: ...,PPE)`
@@ -11,6 +11,7 @@
 * `0310IbnAhmadDulabi.KunaWaAsma (TAGS: ...,PPE)`
 * `0310Tabari.Tarikh (TAGS: CHR,PPE)`
 * `0317AbuQasimBaghawi.MucjamSahaba (TAGS: ...,PPE)`
+* `0317AbuQasimBaghawi.TarikhWafatShuyukh (TAGS: ...,BIO,PPE)`
 * `0322AbuJacfarCuqayli.DucafaKabir (TAGS: ...,PPE)`
 * `0346Istakhri.MasalikWaMamalik (TAGS: GEO,PPE)`
 * `0346Mascudi.MurujDhahab (TAGS: ...,PPE)`
@@ -27,6 +28,8 @@
 * `0360Tabarani.MucjamKabir (TAGS: HAD,COLL,PPE)`
 * `0365IbnCadiJurjani.AsamiManRawaCanhum (TAGS: ...,PPE)`
 * `0365IbnCadiJurjani.KamilFiDucafa (TAGS: ...,PPE)`
+* `0365IbnFaqihHamadhani.Buldan (TAGS: ...,PPE)`
+* `0367IbnHawqal.SuraArd (TAGS: ...,GEO,PPE)`
 * `0369IbnHayyanAnsari.TabaqatMuhaddithin (TAGS: ...,PPE)`
 * `0370IbnBishrAmidi.MutalifWaMukhtalif (TAGS: ...,BIO,PPE)`
 * `0374IbnHusaynAzdi.AsmaManYucrafBiKunya (TAGS: ...,PPE)`
@@ -34,6 +37,7 @@
 * `0374IbnHusaynAzdi.ManWafaqaIsmuhuIsmAbihi (TAGS: PPE,...)`
 * `0379MuhammadRabci.TarikhMawlidCulama (TAGS: BIO,COL,PPE)`
 * `0382IbnCabdAllahCaskari.AkhbarMusahhifin (TAGS: ...,PPE)`
+* `0384IbnCimranMarzubani.MucjamShucara (TAGS: ...,PPE)`
 * `0385Daruqutni.DhikrAsmaTabicin (TAGS: ...,PPE)`
 * `0385Daruqutni.MutalifWaMukhtalif (TAGS: ...,PPE)`
 * `0385Daruqutni.SualatBarqani (TAGS: ...,PPE)`
