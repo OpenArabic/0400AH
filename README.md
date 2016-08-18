@@ -57,7 +57,7 @@
 
 
 
-# 0400AH [[ [Re]generated on 2016-08-18 (17:44:38) ]]
+# 0400AH [[ [Re]generated on 2016-08-18 (18:17:26) ]]
 
 * `0301Bardiji.TabaqatAsma `
     * TAGS: CENT0400,PPE,_HADITH,_TABAQAT,_TARAJIM
@@ -171,6 +171,10 @@
     * TAGS: CENT0400,_HADITH,_MACAJIM,_MASANID,_TARAJIM
 * `0374IbnHusaynAzdi.AsmaManYucrafBiKunya `
     * TAGS: CENT0400,PPE,_HADITH,_TABAQAT,_TARAJIM
+* `0374IbnHusaynAzdi.DhikrIsmKullAshab `
+    * TAGS: CENT0400,_TABAQAT,_TARAJIM
+* `0374IbnHusaynAzdi.KunaLiManLaYucrafLahuIsm `
+    * TAGS: CENT0400,PPE,_TABAQAT,_TARAJIM
 * `0374IbnHusaynAzdi.Makhzun `
     * TAGS: CENT0400,HAD,PPE,_CULUM,_HADITH,_MUSTALAHAT,_TARAJIM
 * `0374IbnHusaynAzdi.ManWafaqaIsmuhuIsmAbihi `
@@ -203,6 +207,8 @@
     * TAGS: CENT0400,GEO,PPE,_BULDAN,_JUGHRAFIYA,_RIHLAT,_TARIKH
 * `0390Muqaddasi.AhsanTaqasim `
     * TAGS: CENT0400,GEO,PPE,_BULDAN,_JUGHRAFIYA,_MUDHAKKARAT,_RIHLAT,_TARIKH
+* `0395AbuHilalCaskari.Talkhis `
+    * TAGS: CENT0400,_FIQH,_GHARIB,_MACAJIM,_MUSTALAHAT
 * `0395IbnMandahMuhammad.Asami `
     * TAGS: CENT0400,PPE,_AJZA,_HADITH
 * `0395IbnMandahMuhammad.FathBab `
