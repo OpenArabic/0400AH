@@ -1,9 +1,10 @@
-# Status Report
+# Status Report (48 titles; 98,742 biographies)
 
-## In Progress (3)
+## In Progress (4)
 
 - `0230IbnSacd.TabaqatKubra.Shamela0001686-ara1.inProgress`
 - `0256Bukhari.TarikhKabir.Shamela0000956-ara1.inProgress`
+- `0310Tabari.JamicBayan.Shia002468Vols-ara1.inProgress`
 - `0310Tabari.Tarikh.Shia003474Vols-ara1.inProgress`
 
 
@@ -61,7 +62,7 @@
 
 
 
-# 0400AH [[ [Re]generated on 2016-08-25 (21:25:00) ]]
+# 0400AH [[ [Re]generated on 2016-08-26 (12:46:13) ]]
 
 * `0301Bardiji.TabaqatAsma `
     * TAGS: CENT0400,PPE,_HADITH,_TABAQAT,_TARAJIM
