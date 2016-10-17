@@ -106,7 +106,7 @@
 
 
 
-# 0400AH [[ [Re]generated on 2016-10-16 (23:19:53) ]]
+# 0400AH [[ [Re]generated on 2016-10-17 (07:49:16) ]]
 
 * `0301AbuBakrFaryabi.DalailNubuwwa (TAGS: CENT0400, _AJZA, _ASHAB, _CAQAID, _HADITH, _SIRA, _TABAQAT, _TARAJIM)`
 * `0301Bardiji.TabaqatAsma (TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM)`
@@ -132,6 +132,7 @@
 * `0310Tabari.JamicBayan (TAGS: CENT0400, SBS, _AHKAM, _CULUM, _HADITH, _QURAN, _SUNNI, _TAFSIR)`
 * `0310Tabari.MuntakhabMinDhayl (TAGS: CENT0400, PPE, _MISC, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0310Tabari.SarihSunna (TAGS: CENT0400, _AJZA, _CAQAID, _HADITH, _MILAL, _SUNNI)`
+* `0310Tabari.TahdhibAthar (TAGS: CENT0400, _FIQH, _HADITH, _TARAJIM)`
 * `0310Tabari.Tarikh (TAGS: CENT0400, CHR, PPE, _TARIKH)`
 * `0312IbnCaliTusi.MukhtasarAhkam (TAGS: CENT0400, _FIQH, _HADITH, _SUNAN, _TARAJIM)`
 * `0312IbnMuhammadBaghandi.MusnadCumar (TAGS: CENT0400, _AJZA, _HADITH, _MACAJIM, _MASANID, _SUNNI, _TARAJIM)`
