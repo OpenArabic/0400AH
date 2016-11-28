@@ -138,7 +138,7 @@
 
 
 
-# 0400AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]
+# 0400AH [[ [Re]generated on 2016-11-28 (22:57:48) ]]
 
 * `0301AbuBakrFaryabi.DalailNubuwwa (TAGS: CENT0400, _AJZA, _ASHAB, _CAQAID, _HADITH, _SIRA, _TABAQAT, _TARAJIM)`
 * `0301Bardiji.TabaqatAsma (TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM)`
@@ -175,10 +175,12 @@
 * `0312IbnCaliTusi.MukhtasarAhkam (TAGS: CENT0400, _FIQH, _HADITH, _SUNAN, _TARAJIM)`
 * `0312IbnMuhammadBaghandi.MusnadCumar (TAGS: CENT0400, _AJZA, _HADITH, _MACAJIM, _MASANID, _SUNNI, _TARAJIM)`
 * `0313IbnIshaqSarraj.Musnad (TAGS: CENT0400, _HADITH, _MACAJIM, _MASANID, _TARAJIM)`
+* `0313IbnZakariyaRazi.HawiFiTibb (TAGS: CENT0400, _CULUM, _MISC, _TIBB)`
 * `0317AbuQasimBaghawi.MucjamSahaba (TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM)`
 * `0317AbuQasimBaghawi.TarikhWafatShuyukh (TAGS: BIO, CENT0400, PPE, _AJZA, _HADITH)`
 * `0318AbuCurubaHarrani.MuntaqaMinTabaqat (TAGS: CENT0400, PPE, _AJZA, _HADITH, _TABAQAT, _TARAJIM)`
 * `0320CaribQurtubi.SilaTarikhTabari (TAGS: CENT0400, CHR, PPE, _TARIKH)`
+* `0320Israili.AghdhiyaWaAdwiya (TAGS: CENT0400, _TIBB)`
 * `0321AbyJacfarTahawi.AhkamQuran (TAGS: CENT0400, _CULUM, _QURAN)`
 * `0321AbyJacfarTahawi.HadithAbiJacfar (TAGS: CENT0400, _HADITH, _MAKHTUTAT)`
 * `0321AbyJacfarTahawi.MatnAqida (TAGS: CENT0400, _CAQAID, _MILAL)`
@@ -236,6 +238,7 @@
 * `0360AbuBakrAjurri.AkhbarAbiHafs (TAGS: CENT0400, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0360Khawlani.TarikhDaraya (TAGS: CENT0400, HIS, PPE, _BULDAN, _HADITH, _TARIKH)`
 * `0360Tabarani.Awail (TAGS: CENT0400, _AJZA, _HADITH, _TABAQAT, _TARAJIM)`
+* `0360Tabarani.MakarimAkhlaq (TAGS: CENT0400, _AKHLAQ, _HADITH)`
 * `0360Tabarani.MucjamAwsat (TAGS: CENT0400, _HADITH, _MACAJIM, _MASANID, _SUNNI, _TARAJIM)`
 * `0360Tabarani.MucjamKabir (TAGS: CENT0400, COL, HAD, PPE, _HADITH, _MACAJIM, _MASANID, _SUNNI, _TARAJIM)`
 * `0360Tabarani.MucjamSaghir (TAGS: CENT0400, _HADITH, _MACAJIM, _MASANID, _SUNNI, _TARAJIM)`
