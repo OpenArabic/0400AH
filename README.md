@@ -138,7 +138,7 @@
 
 
 
-# 0400AH [[ [Re]generated on 2016-12-01 (13:36:39) ]]
+# 0400AH [[ [Re]generated on 2016-12-01 (16:28:20) ]]
 
 * `0301AbuBakrFaryabi.DalailNubuwwa (TAGS: CENT0400, _AJZA, _ASHAB, _CAQAID, _HADITH, _SIRA, _TABAQAT, _TARAJIM)`
 * `0301Bardiji.TabaqatAsma (TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM)`
@@ -264,11 +264,13 @@
 * `0381AbuQasimJawhari.MusnadMuwatta (TAGS: CENT0400, _HADITH)`
 * `0382IbnCabdAllahCaskari.AkhbarMusahhifin (TAGS: CENT0400, PPE, _HADITH, _LUGHA, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0384IbnCimranMarzubani.MucjamShucara (TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
+* `0385Daruqutni.CilalWarida (TAGS: CENT0400, _AHKAM, _CILAL, _DACIF, _HADITH, _MAWDUC, _SUALAT)`
 * `0385Daruqutni.DhikrAsmaTabicin (TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0385Daruqutni.Ducafa (TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM)`
 * `0385Daruqutni.MutalifWaMukhtalif (TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM)`
 * `0385Daruqutni.SualatBarqani (TAGS: CENT0400, PPE, _CILAL, _HADITH, _SUALAT, _SUNNI, _TARAJIM)`
 * `0385Daruqutni.SualatNaysaburi (TAGS: CENT0400, PPE, _CILAL, _HADITH, _SUALAT, _SUNNI, _TARAJIM)`
+* `0385Daruqutni.TacliqatCalaMajruhin (TAGS: CENT0400, _TABAQAT, _TARAJIM)`
 * `0385IbnNadim.Fihrist (TAGS: BIB, CENT0400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM)`
 * `0385IbnShahin.DhikrManIkhtalafaCulama (TAGS: CENT0400, _HADITH, _MISC, _TABAQAT, _TARAJIM)`
 * `0385IbnShahin.TarikhAsmaDucafa (TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM)`
