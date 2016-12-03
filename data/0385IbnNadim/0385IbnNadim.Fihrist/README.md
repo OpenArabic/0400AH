@@ -1,5 +1,6 @@
 
 
+
 Please, copy-paste questions from `text_questionnaire.md` into this file and answer the questions.
 If you have done so, please check if `text_questionnaire.md` has been updated and has new questions.
 
@@ -25,6 +26,17 @@ Type your response here.
 
 Done until 5265 / 157
 
+5438; edition has bana, not bi-anna
+
+6577 has inexplicable question mark
+
+Done until 6657 / 201
+
+~7330 big footnotes going on, on pp. 218-219, some of it included some of it not?
+
+10702: edition has manluwis, not min al-aws
+
+Until 11320 / 345
 
 ## 5. ...
 
