@@ -138,7 +138,7 @@
 
 
 
-# 0400AH [[ [Re]generated on 2016-12-10 (20:36:52) ]]
+# 0400AH [[ [Re]generated on 2017-01-04 (15:09:51) ]]
 
 * `0301AbuBakrFaryabi.DalailNubuwwa (TAGS: CENT0400, _AJZA, _ASHAB, _CAQAID, _HADITH, _SIRA, _TABAQAT, _TARAJIM)`
 * `0301Bardiji.TabaqatAsma (TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM)`
@@ -189,7 +189,14 @@
 * `0313IbnZakariyaRazi.HawiFiTibb (TAGS: CENT0400, _CULUM, _MISC, _TIBB)`
 * `0316IbnIshaqIsfaraini.Musnad (TAGS: CENT0400, _FIQH, _HADITH, _SUNAN, _TARAJIM)`
 * `0316IbnIshaqIsfaraini.Mustrakhraj (TAGS: CENT0400, _HADITH)`
+* `0317AbuQasimBaghawi.AhadithTalut (TAGS: CENT0400, _AJZA, _HADITH)`
+* `0317AbuQasimBaghawi.HadithMuscab (TAGS: CENT0400, _AJZA, _HADITH, _MISC, _TARAJIM)`
+* `0317AbuQasimBaghawi.HikayatShucba (TAGS: CENT0400, _HADITH, _MAKHTUTAT)`
+* `0317AbuQasimBaghawi.JuzFiMasailIbnHanbal (TAGS: CENT0400, _FIQH, _HANBALI)`
+* `0317AbuQasimBaghawi.JuzThalathaWaThalathina (TAGS: CENT0400, _AJZA, _HADITH, _TARAJIM)`
 * `0317AbuQasimBaghawi.MucjamSahaba (TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM)`
+* `0317AbuQasimBaghawi.MusnadCuthman (TAGS: CENT0400, _AJZA, _HADITH)`
+* `0317AbuQasimBaghawi.MusnadUsama (TAGS: CENT0400, _AJZA, _HADITH, _MACAJIM, _MASANID, _SUNNI, _TARAJIM)`
 * `0317AbuQasimBaghawi.TarikhWafatShuyukh (TAGS: BIO, CENT0400, PPE, _AJZA, _HADITH)`
 * `0318AbuCurubaHarrani.MuntaqaMinTabaqat (TAGS: CENT0400, PPE, _AJZA, _HADITH, _TABAQAT, _TARAJIM)`
 * `0320CaribQurtubi.SilaTarikhTabari (TAGS: CENT0400, CHR, PPE, _TARIKH)`
@@ -235,6 +242,7 @@
 * `0328IbnCabdRabbihi.TabaicNisa (TAGS: CENT0400, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
 * `0328IbnQasimAnbari.MajlisMinAmali (TAGS: CENT0400, _AJZA, _HADITH)`
 * `0328IbnQasimAnbari.ZahirFiMacani (TAGS: CENT0400, _ADAB, _BALAGHA, _FASAHA, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT)`
+* `0329Barbahari.SharhSunna (TAGS: CENT0400, _CAQAID, _HADITH, _MILAL)`
 * `0329IbnBabawayh.FiqhRida (TAGS: CENT0400, _BEFORE800, _FIQH, _SHICI)`
 * `0329IbnBabawayh.ImamaWaTabsira (TAGS: CENT0400, _HADITH, _SHICI)`
 * `0330Sirafi.Rihla (TAGS: CENT0400, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
