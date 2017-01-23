@@ -38,6 +38,16 @@ Done until 6657 / 201
 
 Until 11320 / 345
 
+12050 does not have full title. It should add: "mimman allafa fi hadithihi kitab"
+
+12254 does not know what the edition says. indeed unreadable.
+
+Done until 13481 / 409
+
+13485 questionable if this should be title
+
+14063 From here its appendices which I didn't do.
+
 ## 5. ...
 
 ## Comments by : [Eric van Lit]
