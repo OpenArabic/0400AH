@@ -1,6 +1,8 @@
 Please, copy-paste questions from `text_questionnaire.md` into this file and answer the questions.
 If you have done so, please check if `text_questionnaire.md` has been updated and has new questions.
 
+NOTE: THE FILE ...SECTION FOR IBN TAYFUR WAS SPECIALLY CREATED FOR SARAH SAVANT'S LECTURE SERIES AT LEIDEN. IT HAS A MORE THOROUGH TAGGING FROM LINES 108228 UNTIL 110210 (PAGES 574-666 OF VOLUME 8), CONSISTING OF TAGGING AT LEVEL 4 OF: SUBTITLES STARTING WITH A BULLET POINT, THREE BULLET POINTS, AND BASMALAS.
+
 
 ## 2. Add any comments on the text
 
@@ -194,6 +196,8 @@ done until 3796
 109251 this title is not in the edition so I made it ===
 
 109373 this title is not in the edition so I made it ===
+
+109747 has a ha instead of ta-marbuta
 
 110208 this title is not in the edition so I made it ===
 
